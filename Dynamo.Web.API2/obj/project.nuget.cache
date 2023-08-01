@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9VuKGYUipqMM79p5qtBe1TIlYElilUXb8xezDc4mWKOI9srdEh+9zlK0oHXQceNW3g7BRR2EWgju9pHZH/EIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vdinev\\Documents\\GitHub\\Dynamo\\Dynamo.Web.API2\\Dynamo.Web.API2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vdinev\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\vdinev\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vdinev\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\vdinev\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\vdinev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\vdinev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
